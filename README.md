@@ -1,6 +1,6 @@
 # pyprecision
 
-A simple Python package for rounding numerical values with controlled precision, following common rules used in physics and laboratory practice. Check an example of usage [here](https://github.com/gopyc-code/ferromagnets-mephi).
+A simple Python package for rounding numerical values with controlled precision, following common rules used in physics and laboratory practice. Check an example of its usage [here](https://github.com/gopyc-code/ferromagnets-mephi).
 
 ## Features
 
